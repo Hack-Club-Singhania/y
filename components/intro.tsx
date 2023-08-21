@@ -7,8 +7,7 @@ const Intro = () => {
       𝕐
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Singhania IBDP's Project 𝕐 is a captivating odyssey through the realm of technology and computer science. As pioneers of the digital age, we embark on a journey that unravels the mysteries of code, algorithms, and innovation. With a passion for pushing boundaries, we delve into the intricate tapestry of the tech world, weaving together insights, breakthroughs, and expert perspectives. Maintained by hack club singhania.
-      </h4>
+        Singhania IBDP's Project 𝕐 is a captivating odyssey through the realm of technology and computer science. As pioneers of the digital age, we embark on a journey that unravels the mysteries of code, algorithms, and innovation. With a passion for pushing boundaries, we delve into the intricate tapestry of the tech world, weaving together insights, breakthroughs, and expert perspectives.</h4>
     </section>
   )
 }
