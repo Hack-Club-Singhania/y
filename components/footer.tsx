@@ -24,6 +24,9 @@ const Footer = () => {
             </a>
           </div>
         </div>
+        <img src="/badge.png" alt="Badge" className="mt-4" />
+        <br />
+        <br />
       </Container>
     </footer>
   )
