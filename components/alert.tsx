@@ -29,7 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              Submit your article {' '}
+              ✨ Submit your article {' '}
               <a
                 href={`https://tally.so/r/mVQ9oE`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
